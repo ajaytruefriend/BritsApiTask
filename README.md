@@ -7,6 +7,11 @@ A pytest-based framework for API automation.
 - Python 3.7+
 - pip (Python package manager)
 
+## Features
+Automated test execution using pytest.
+HTML report generation with python -m pytest --html=reports/report.html.
+Easy configuration using config.ini.
+
 ## Installation
 1. Clone the repository:
    ```bash
